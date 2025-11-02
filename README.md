@@ -1,4 +1,4 @@
-# Kali-Linux-hacking-course
+# Kali-Linux-Hacking-Tools
 Herramientas de ayuda para el curso de hacking con Kali Linux
 # Suscribiros o uniros a mis redes sociales para más HACKING!!
 
